@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.venv/
+*.egg-info/
+**/*.egg-info/
+build/
+dist/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project-specific
+outputs/
+*.log
+data/
+*.pt
+*.pth
+*.pkl
+*.h5
+
+# Jupyter (eğer kullanırsak)
+.ipynb_checkpoints/
+*.ipynb
+
+# Environment
+.env
